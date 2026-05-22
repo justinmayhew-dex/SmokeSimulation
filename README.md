@@ -2,8 +2,7 @@
 
 A real-time smoke simulation running entirely in the browser using **JavaScript** and **WebGL**. Built on the incompressible Navier-Stokes equations, it produces fluid, physically-plausible smoke behaviour at interactive frame rates.
 
-![Smoke Simulation Demo](demo.gif)
-> *Replace with a screenshot or GIF of your simulation*
+![Smoke Simulation Demo](public/sample.jpeg)
 
 ---
 
